@@ -1,0 +1,14 @@
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\bin\Debug\net7.0\C#2.exe
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\bin\Debug\net7.0\C#2.deps.json
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\bin\Debug\net7.0\C#2.runtimeconfig.json
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\bin\Debug\net7.0\C#2.dll
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\bin\Debug\net7.0\C#2.pdb
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\obj\Debug\net7.0\C#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\obj\Debug\net7.0\C#2.AssemblyInfoInputs.cache
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\obj\Debug\net7.0\C#2.AssemblyInfo.cs
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\obj\Debug\net7.0\C#2.csproj.CoreCompileInputs.cache
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\obj\Debug\net7.0\C#2.dll
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\obj\Debug\net7.0\refint\C#2.dll
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\obj\Debug\net7.0\C#2.pdb
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\obj\Debug\net7.0\C#2.genruntimeconfig.cache
+C:\Users\zxcbublic\Desktop\Новая папка\C-\C#2\obj\Debug\net7.0\ref\C#2.dll
